@@ -1,14 +1,14 @@
-# Encontrando las estadísticas optimas para Mario Kart 8
+# Encontrando las estadísticas óptimas para Mario Kart 8
 
-Para este proyecto usare las estadísticas de la **versión de Wii U**, por tener menor cantidad de elementos y por ser la que uso personalmente. 
+Para este proyecto usaré las estadísticas de la **versión de Wii U**, por tener menor cantidad de elementos y por ser la que uso personalmente. 
 
-Busco una configuración balanceada, dando prioridad al mini-turbo y el manejo. 
+Busco una configuración balanceada, dando prioridad al mini-turbo y al manejo. 
 
 
-## Hipotesis 
-No hay una configuración abismalmente mejor, se puede construir un buen combo con cada uno de los personajes on vehículos. 
+## Hipótesis 
+No hay una configuración abismalmente mejor, se puede construir un buen combo con cada uno de los personajes o vehículos. 
 
-Aún así, los personajes intermedios podrías tener mayor versatilidad de combinaciones. 
+Aún así, los personajes intermedios podrían tener mayor versatilidad de combinaciones. 
 
 
 ## Combinación ideal antes del análisis
