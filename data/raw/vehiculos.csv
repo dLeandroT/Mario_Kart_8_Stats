@@ -1,0 +1,10 @@
+Body,Speed_Ground,Speed_Water,Speed_Air,Speed_AntiGravity,Acceleration,Weight,Handling_Ground,Handling_Water,Handling_Air,Handling_AntiGravity,Traction,Mini_Turbo
+TeddyBuggy,3,3,2,4,2,2,2,2,1,3,5,3
+WildWiggler,3,4,3,3,3,1,4,4,3,4,3,4
+BDasher,5,4,4,5,1,3,2,2,1,2,1,1
+TriSpeeder,3,5,2,3,0,4,0,5,0,0,7,0
+BiddyBuggy,0,5,4,0,7,0,4,5,4,3,4,7
+BlueFalcon,4,3,3,5,3,1,2,2,1,3,3,3
+TanookiKart,3,5,3,3,1,3,1,5,4,1,6,1
+YoshiBike,3,3,2,3,5,1,5,5,4,5,0,5
+HylianBike,4,5,4,3,2,2,4,4,4,5,2,3

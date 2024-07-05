@@ -1,0 +1,4 @@
+Glider,Speed_Ground,Speed_Water,Speed_Air,Speed_AntiGravity,Acceleration,Weight,Handling_Ground,Handling_Water,Handling_Air,Handling_AntiGravity,Traction,Mini_Turbo
+Paper,1,1,2,1,1,2,1,1,1,1,1,1
+Cloud,1,1,1,1,2,1,1,1,2,1,1,2
+Plane,1,1,2,1,1,2,1,1,1,1,1,1

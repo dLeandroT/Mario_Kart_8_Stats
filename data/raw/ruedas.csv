@@ -1,0 +1,8 @@
+Tires,Speed_Ground,Speed_Water,Speed_Air,Speed_AntiGravity,Acceleration,Weight,Handling_Ground,Handling_Water,Handling_Air,Handling_AntiGravity,Traction,Mini_Turbo
+Standard,2,4,2,2,2,2,3,3,3,3,4,2
+Monster,2,2,0,2,0,4,0,0,0,0,7,0
+Button,0,4,4,0,6,0,4,4,4,4,3,6
+Slim,3,3,3,3,1,2,4,4,4,4,2,1
+Slick,4,0,4,4,1,3,3,3,3,3,0,1
+Metal,3,3,3,3,0,4,3,3,3,3,2,0
+Wood,1,0,3,1,3,1,2,1,3,2,6,3
