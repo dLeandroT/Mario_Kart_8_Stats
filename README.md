@@ -11,5 +11,10 @@ No hay una configuración abismalmente mejor, se puede construir un buen combo c
 Aún así, los personajes intermedios podrías tener mayor versatilidad de combinaciones. 
 
 
-## Combinacion ideal antes del análisis
+## Combinación ideal antes del análisis
+![Mejor_Combo_v1](/references/Mejor_Combo_v1.png)
 
+
+# Fuente de Datos
+El dataset será extraído de Mario Kart Wiki en donde hay mucha más información además de estas estadísticas.  
+https://www.mariowiki.com/Mario_Kart_8
